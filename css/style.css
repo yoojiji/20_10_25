@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+.모기{
+    position: absolute;
+transition: all 0.9s ease}
+
+
+.stuff{
+    position: relative;
+    left: 100px; top: -1450px;
+    
+}
+
+.stuff2{
+    position: relative;
+    left: 150px; top: -1310px;
+}
+
+.stuff3{
+    position: relative;
+    left: 30px; top: -1490px;
+}
+
+.box {transition: all 0.3s ease-in-out;}
+
+
+
+.전등 {style="position: absolute ; width: auto; height: auto; top: 0px; left: 800px;
+    ;transition-property: all;
+    transition-duration: 0.01s ; }
+    
+    .전등:hover {background-image:url(img/2.png);}
